@@ -128,7 +128,8 @@ draw_graph(weight_avg, macros_avg, year)
 returns:
 "File saved: ..\averages_2023.png"
 ```
-![Example image of what the graph of weight and macros averages looks like](pset9/averages_2023_example.png)
+
+![Example image of what the graph of weight and macros averages looks like](https://github.com/j-mattias/AMWG/blob/main/averages_2023.png?raw=true)
 
 **test_project.py (Unit tests)**
 The test file contains a number of unit tests, using pytest, for each of the functions in the main file.
